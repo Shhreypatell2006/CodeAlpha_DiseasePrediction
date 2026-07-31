@@ -1,6 +1,6 @@
 # CodeAlpha_DiseasePrediction
 
-## 📌 Task 4: Disease Prediction from Medical Data
+## 📌 Task 3: Disease Prediction from Medical Data
 **CodeAlpha Machine Learning Internship**
 
 ### 🎯 Objective
